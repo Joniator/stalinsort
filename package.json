@@ -1,6 +1,6 @@
 {
   "name": "stalinsort",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Stalinsort-Algorithm [https://new.reddit.com/r/ProgrammerHumor/comments/9s9kgn/nononsense_sorting_algorithm/]",
   "main": "index.js",
   "scripts": {

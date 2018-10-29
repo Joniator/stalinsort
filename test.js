@@ -11,6 +11,7 @@ describe('sort', function() {
     assert(equals(sort([15, 5, 11, 14, 12]), [15]));
     assert(equals(sort([10,11,12,"thirteen", 12, 11]), [10, 11, 12]));
     assert(sort("hackerman") === false);
+    assert(sort(5) === false);
     assert(sort(undefined) === false)
   })
 });
