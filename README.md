@@ -4,14 +4,14 @@
 
 Please consider following this project's author, [Jon Schlinkert](https://github.com/joniator), and consider starring the project to show your :heart: and support.
 
-My [inspiration](https://new.reddit.com/r/ProgrammerHumor/comments/9s9kgn/nononsense_sorting_algorithm) comes from this great post about a new sorting algorithm with O(n) complexity, and I had to share it so everyone can use this for free, as stalin wished us to share his great invention.
+My [inspiration](https://new.reddit.com/r/ProgrammerHumor/comments/9s9kgn/nononsense_sorting_algorithm) comes from this great post about a new sorting algorithm with O(n) complexity, and I had to share it so everyone can use this for free, as Stalin wished us to share his great invention.
 
 ## Install
 
 Install with [npm](https://www.npmjs.com/):
 
 ```sh
-$ npm install --save is-odd
+$ npm install --save stalinsort
 ```
 
 ## Usage
